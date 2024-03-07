@@ -1,48 +1,55 @@
 ---
-title: Entrega e ativação - experiências e desempenho avançados
-description: Para a empresa que precisa de suporte, obtenha o conteúdo certo na frente do indivíduo certo no canal certo. A Cadeia de fornecimento de conteúdo torna essa conexão melhor do que qualquer outra solução, além de fornecer a análise para garantir o desempenho geral do conteúdo.
-solution: Experience Cloud, Workfront, Creative Cloud, Experience Manager Assets
-feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites, Journey Optimizer, Creative Cloud
-feature: Asset Management, Asset Processing, Collaboration, Share, Performance Monitoring, Personalization, Channels Activity, Gen AI
-topic: Content Management, Collaboration, Personalization
+title: Tutoriais de entrega e ativação
+description: Experiências avançadas e desempenho do conteúdo e das campanhas.  Ativação rápida de ativos e melhor desempenho de conteúdo
+solution: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo, Target
+feature-set: Experience Cloud, Experience Manager, Campaign, Journey Optimizer, Marketo Engage, Target
+topic: Content Management, Collaboration, Personalization, Artificial Intelligence
 role: Admin, User, Leader, Data Architect, Data Engineer
 level: Beginner
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14157
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 2%
 
 ---
 
 
-# Entrega e ativação: experiências e desempenho com energia
+# Tutoriais de entrega e ativação
 
-Para a empresa que precisa de suporte, obtenha o conteúdo certo na frente do indivíduo certo no canal certo. A Cadeia de fornecimento de conteúdo torna essa conexão melhor do que qualquer outra solução, além de fornecer a análise para garantir o desempenho geral do conteúdo.
-
-## Principais casos de uso de negócios
-
-* Encontre e reutilize ativos facilmente
-* Crie e publique experiências de alto impacto com rapidez
-* Gerar e testar cópia instantaneamente
-* Implante experiências relevantes e personalizadas em todos os canais
+Experiências avançadas e desempenho do conteúdo e das campanhas.  Ativação rápida de ativos e melhor desempenho de conteúdo
 
 As soluções de Adobe usadas para ativação e análise de conteúdo:
-
 
 <table>
     <tr style="border: 0;">
       <td style="vertical-align: middle">
-        <p style="margin: 0"><img alt="Experience Manager Assets" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height:42px;"></p>
-        <strong>Experience Manager Assets</strong>
-      </td>
-      <td style="vertical-align: middle">
         <p style="margin: 0"><img alt="Experience Manager Sites" src="/help/assets/aem-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
         <strong>Experience Manager Sites</strong>
       </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Adobe Campaign" src="/help/assets/ac-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Adobe Campaign</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Journey Optimizer" src="/help/assets/ajo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Journey Optimizer</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Marketo" src="/help/assets/marketo-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Marketo</strong>
+      </td>
+      <td style="vertical-align: middle">
+        <p style="margin: 0"><img alt="Planejado" src="/help/assets/target-logo.png" style="verticle-align: middle;width: 42px;height: 42px;"></p>
+        <strong>Target</strong>
+      </td>
     </tr>
 </table>
+
+>[!TIP]
+>
+>Nossa equipe de especialistas em produtos Adobe montou uma coleção de tutoriais de integração para casos de uso importantes da cadeia de fornecimento de conteúdo. Se você estiver usando mais de uma solução, saiba a melhor maneira de integrá-las!  Confira o [Tutoriais de integração da cadeia de fornecimento de conteúdo](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutorials
 
